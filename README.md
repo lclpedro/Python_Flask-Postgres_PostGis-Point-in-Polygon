@@ -32,7 +32,7 @@ verifica_ponto_in_poligono(-67.8519809246063,-9.96074206300764)
 
 ```
 
-Se o ponto passado na função retorna resultado:
+Se o ponto passado na função existir, retornará o resultado:
 ```json
 [
     {
